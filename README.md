@@ -1,9 +1,13 @@
-# 🌸 Hola, soy Christel
+<h1 align="center">🌸 Hola, soy Christel 💚</h1>
 
-💻 Frontend Developer Trainee
-✨ Apasionada por crear interfaces limpias, intuitivas y con buena experiencia de usuario
+<p align="center">
+  💻 Frontend Developer Trainee <br>
+  ✨ Apasionada por crear interfaces limpias e intuitivas
+</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer+Trainee;UI%2FUX+Lover;Construyendo+proyectos+reales&center=true&color=40E0D0&width=600&height=50">
+</p>
 
 ## 🌟 Sobre mí
 
@@ -39,7 +43,7 @@ Aplicación SPA desarrollada con Vue que consume una API real para mostrar infor
 * Alertas meteorológicas
 * Manejo de estado global con Vuex
 
-🔗 *(Aquí pondrás el link a tu repo cuando lo subamos)*
+🔗 *()*
 
 ---
 
