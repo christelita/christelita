@@ -45,8 +45,9 @@ Aplicación SPA desarrollada con Vue que consume una API real para mostrar infor
 
 ### 📸 Vista previa
 
-![App Clima](https://via.placeholder.com/700x350?text=App+Clima+Vue)
-
+<p align="center">
+  <img src="https://dummyimage.com/700x350/40E0D0/ffffff&text=App+Clima+Vue" />
+</p>
 ---
 
 ## 💫 Objetivo
