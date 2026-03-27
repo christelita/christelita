@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Frontend Developer Trainee <br>
-  ✨ Apasionada por crear interfaces limpias e intuitivas
+  ✨ Apasionada por crear interfaces atractivas e intuitivas
 </p>
 
 <p align="center">
