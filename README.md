@@ -43,7 +43,9 @@ Aplicación SPA desarrollada con Vue que consume una API real para mostrar infor
 * Alertas meteorológicas
 * Manejo de estado global con Vuex
 
-🔗 *()*
+### 📸 Vista previa
+
+![App Clima](https://via.placeholder.com/700x350?text=App+Clima+Vue)
 
 ---
 
@@ -56,3 +58,7 @@ Seguir creciendo como desarrolladora Frontend, participando en proyectos reales 
 ## 📫 Conecta conmigo
 
 ✨ Pronto más proyectos y mejoras...
+
+<p align="center">
+  💚 Hecho con dedicación y amor por el frontend 💚
+</p>
