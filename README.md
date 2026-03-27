@@ -1,16 +1,54 @@
-## Hi there 👋
+# 🌸 Hola, soy Christel
 
-<!--
-**christelita/christelita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer Trainee
+✨ Apasionada por crear interfaces limpias, intuitivas y con buena experiencia de usuario
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Sobre mí
+
+* 🌱 Actualmente aprendiendo y fortaleciendo habilidades en desarrollo Frontend
+* 🎯 Enfocada en construir aplicaciones reales con buenas prácticas
+* 💡 Interesada en UI/UX y en mejorar la experiencia del usuario
+* 🚀 En constante crecimiento como desarrolladora
+
+---
+
+## 🛠️ Tecnologías
+
+* ⚡ Vue.js
+* 🔀 Vue Router
+* 🧠 Vuex
+* 🌐 JavaScript (ES6+)
+* 🎨 HTML5 & CSS3
+* 🔗 Axios
+
+---
+
+## 🌦️ Proyecto destacado
+
+### 🔹 App de Clima
+
+Aplicación SPA desarrollada con Vue que consume una API real para mostrar información meteorológica.
+
+✨ Funcionalidades principales:
+
+* Consulta de clima en tiempo real
+* Pronóstico extendido
+* Estadísticas semanales
+* Alertas meteorológicas
+* Manejo de estado global con Vuex
+
+🔗 *(Aquí pondrás el link a tu repo cuando lo subamos)*
+
+---
+
+## 💫 Objetivo
+
+Seguir creciendo como desarrolladora Frontend, participando en proyectos reales y aportando soluciones funcionales y bien diseñadas.
+
+---
+
+## 📫 Conecta conmigo
+
+✨ Pronto más proyectos y mejoras...
