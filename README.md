@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Tecnologías
+
 
 ## 🛠️ Tecnologías  
 
