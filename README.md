@@ -20,12 +20,17 @@
 
 ## 🛠️ Tecnologías
 
-* ⚡ Vue.js
-* 🔀 Vue Router
-* 🧠 Vuex
-* 🌐 JavaScript (ES6+)
-* 🎨 HTML5 & CSS3
-* 🔗 Axios
+## 🛠️ Tecnologías  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,js,html,css,git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Vue_Router-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+</p>
 
 ---
 
