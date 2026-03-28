@@ -1,12 +1,19 @@
 <h1 align="center">🌸 Hola, soy Christel Vial Esquenazi 💚</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Magíster+en+Literatura+📚;Fotógrafa+Profesional+📸;Frontend+Developer+Trainee+💻;Construyendo+interfaces+que+se+habitan...&center=true&color=40E0D0&width=600&height=50">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&center=true&vCenter=true&width=600&lines=Magister+en+Literatura;Fotografa+Profesional;Frontend+Developer+Trainee;Interfaces+que+se+habitan..." alt="Typing SVG" />
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Master_en_Literatura-📚-40E0D0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fotógrafa_Profesional-📸-40E0D0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend_Developer-💻-4FC08D?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center">
-  <b>Magíster en Literatura📚 | Fotógrafa 📸 | Frontend Trainee 💻</b><br>
-  <i>"Traduzco la métrica de la literatura y la luz de la fotografía al lenguaje del software. No solo desarrollo interfaces; narro experiencias digitales donde cada línea de código tiene una intención."</i>
+ 
+  <i>"Traduzco la métrica de la literatura y la luz de la fotografía al lenguaje del software. Desarrollo interfaces y narro experiencias digitales donde cada línea de código tiene una intención."</i>
 </p>
 
 ---
@@ -71,8 +78,11 @@ con foco en experiencia de usuario.
   <a href="https://christelita.github.io/App-Clima/"><b>🔗 Haz clic aquí para ver la App en vivo</b></a>
 </p>
 
-🧠 **Stack utilizado:** Vue.js, Vuex, Vue Router, Axios  
-🌐 **API:** Consumo de API externa en tiempo real  
+
+🧠Stack utilizado: Vue.js, Vuex, Vue Router, Axios
+
+🌐API: Consumo de API externa en tiempo real 
+ 
 ---
 
 ## 📫 Conecta conmigo
